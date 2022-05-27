@@ -4,7 +4,7 @@ Hi 👋 My name is Matheus Alecksander
 Fullstack Developer
 -------------------
 
-I've been studing since 2021 to become a software developer, was started with Python, but after 2 months i migrate my studies tô HTML, CSS and JavaScript, today my favorite stacks ia ReactJS and NodeJS, working with SQL and NoSQL databases.
+I've been studing since 2021 to become a software developer, was started with Python, but after 2 months i migrate my studies to HTML, CSS and JavaScript, today my favorite stacks is ReactJS and NodeJS, working with SQL and NoSQL databases.
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [matheusalecksander@gmail.com](mailto:matheusalecksander@gmail.com)
