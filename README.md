@@ -8,21 +8,21 @@ With 3 years of experience on web development, my principal stack is React + Nod
 
 My knowledges:
 
-[x] - ReactJS
-[x] - NextJS
-[x] - NodeJS
-[x] - NestJS
-[x] - SQL and NoSQL
-[x] - Prisma
-[x] - TypeORM
-[x] - Amazon SQS
-[x] - Amazon S3
-[x] - Testing
-[x] - Domain Driven Design
-[x] - Clean Archtecture
-[x] - SOLID
-[x] - PHP
-[x] - CI/CD
+- [x] - ReactJS
+- [x] - NextJS
+- [x] - NodeJS
+- [x] - NestJS
+- [x] - SQL and NoSQL
+- [x] - Prisma
+- [x] - TypeORM
+- [x] - Amazon SQS
+- [x] - Amazon S3
+- [x] - Testing
+- [x] - Domain Driven Design
+- [x] - Clean Archtecture
+- [x] - SOLID
+- [x] - PHP
+- [x] - CI/CD
 
 I have good communication and a leader profile, I don't like to feel stuck, so I always look for something to do to help the whole team.
 
