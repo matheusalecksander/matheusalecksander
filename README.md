@@ -4,7 +4,27 @@ Hi 👋 My name is Matheus Alecksander
 Fullstack Developer
 -------------------
 
-I've been studing since 2021 to become a software developer, was started with Python, but after 2 months i migrate my studies to HTML, CSS and JavaScript, today my favorite stacks is ReactJS and NodeJS, working with SQL and NoSQL databases.
+With 3 years of experience on web development, my principal stack is React + NodeJS, with Typescript.
+
+My knowledges:
+
+[x] - ReactJS
+[x] - NextJS
+[x] - NodeJS
+[x] - NestJS
+[x] - SQL and NoSQL
+[x] - Prisma
+[x] - TypeORM
+[x] - Amazon SQS
+[x] - Amazon S3
+[x] - Testing
+[x] - Domain Driven Design
+[x] - Clean Archtecture
+[x] - SOLID
+[x] - PHP
+[x] - CI/CD
+
+I have good communication and a leader profile, I don't like to feel stuck, so I always look for something to do to help the whole team.
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [matheusalecksander@gmail.com](mailto:matheusalecksander@gmail.com)
