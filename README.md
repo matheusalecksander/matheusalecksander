@@ -28,7 +28,7 @@ I have good communication and a leader profile, I don't like to feel stuck, so I
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [matheusalecksander@gmail.com](mailto:matheusalecksander@gmail.com)
-*   🧠  I'm learning Clean Architecture and TDD applied in NodeJS with TypeScript
+*   🧠  I'm focusing on enhancing my knowledge of software engineering, thinking beyond the code, at the heart of the software I'm developing.
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
